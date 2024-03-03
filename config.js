@@ -77,9 +77,9 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['94787843032']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['94787843032']
 
    //---------------------------------------------------------------------
    
@@ -232,9 +232,9 @@ global.herokuapp = ''
 //-------------
 global.welcomeactive =  true
 //-------------
-global.alivemess = false
+global.alivemess = true
 //-------------
-global.aliveimage = false
+global.aliveimage = true
 //-------------
 global.speedmode =  'active'
 //-------------
